@@ -10,13 +10,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Build a class to create neural networks without ML using fromworks." />
 <meta property="og:description" content="Build a class to create neural networks without ML using fromworks." />
-<link rel="canonical" href="https://amro-kamal.github.io/amro/2021/09/09/Neural_network_class_from_scratch-(1).html" />
-<meta property="og:url" content="https://amro-kamal.github.io/amro/2021/09/09/Neural_network_class_from_scratch-(1).html" />
+<link rel="canonical" href="https://amro-kamal.github.io/amro/2021/09/10/Neural_network_class_from_scratch.html" />
+<meta property="og:url" content="https://amro-kamal.github.io/amro/2021/09/10/Neural_network_class_from_scratch.html" />
 <meta property="og:site_name" content="Amro Kamal Mohamed Abbas" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-09-09T00:00:00-05:00" />
+<meta property="article:published_time" content="2021-09-10T00:00:00-05:00" />
 <script type="application/ld+json">
-{"url":"https://amro-kamal.github.io/amro/2021/09/09/Neural_network_class_from_scratch-(1).html","@type":"BlogPosting","headline":"Neural Network Class From Scratch","dateModified":"2021-09-09T00:00:00-05:00","datePublished":"2021-09-09T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://amro-kamal.github.io/amro/2021/09/09/Neural_network_class_from_scratch-(1).html"},"description":"Build a class to create neural networks without ML using fromworks.","@context":"https://schema.org"}</script>
+{"url":"https://amro-kamal.github.io/amro/2021/09/10/Neural_network_class_from_scratch.html","@type":"BlogPosting","headline":"Neural Network Class From Scratch","dateModified":"2021-09-10T00:00:00-05:00","datePublished":"2021-09-10T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://amro-kamal.github.io/amro/2021/09/10/Neural_network_class_from_scratch.html"},"description":"Build a class to create neural networks without ML using fromworks.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/amro/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://amro-kamal.github.io/amro/feed.xml" title="Amro Kamal Mohamed Abbas" /><link rel="shortcut icon" type="image/x-icon" href="/amro/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -71,8 +71,8 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Neural Network Class From Scratch</h1><p class="page-description">Build a class to create neural networks without ML using fromworks.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2021-09-09T00:00:00-05:00" itemprop="datePublished">
-        Sep 9, 2021
+    <h1 class="post-title p-name" itemprop="name headline">Neural Network Class From Scratch</h1><p class="page-description">Build a class to create neural networks without ML using fromworks.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2021-09-10T00:00:00-05:00" itemprop="datePublished">
+        Sep 10, 2021
       </time>
        • <span class="read-time" title="Estimated read time">
     
@@ -88,19 +88,19 @@ window.onload = wrap_img;
         <div class="pb-5 d-flex flex-wrap flex-justify-end">
           <div class="px-2">
 
-    <a href="https://github.com/amro-kamal/amro/tree/master/_notebooks/Neural_network_class_from_scratch (1).ipynb" role="button" target="_blank">
+    <a href="https://github.com/amro-kamal/amro/tree/master/_notebooks/2021-09-10-Neural_network_class_from_scratch.ipynb" role="button" target="_blank">
 <img class="notebook-badge-image" src="/amro/assets/badges/github.svg" alt="View On GitHub">
     </a>
 </div>
 
           <div class="px-2">
-    <a href="https://mybinder.org/v2/gh/amro-kamal/amro/master?filepath=_notebooks%2FNeural_network_class_from_scratch+%281%29.ipynb" target="_blank">
+    <a href="https://mybinder.org/v2/gh/amro-kamal/amro/master?filepath=_notebooks%2F2021-09-10-Neural_network_class_from_scratch.ipynb" target="_blank">
         <img class="notebook-badge-image" src="/amro/assets/badges/binder.svg" alt="Open In Binder"/>
     </a>
 </div>
 
           <div class="px-2">
-    <a href="https://colab.research.google.com/github/amro-kamal/amro/blob/master/_notebooks/Neural_network_class_from_scratch (1).ipynb" target="_blank">
+    <a href="https://colab.research.google.com/github/amro-kamal/amro/blob/master/_notebooks/2021-09-10-Neural_network_class_from_scratch.ipynb" target="_blank">
         <img class="notebook-badge-image" src="/amro/assets/badges/colab.svg" alt="Open In Colab"/>
     </a>
 </div>
@@ -112,7 +112,7 @@ window.onload = wrap_img;
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
-# file to edit: _notebooks/Neural_network_class_from_scratch (1).ipynb
+# file to edit: _notebooks/2021-09-10-Neural_network_class_from_scratch.ipynb
 -->
 
 <div class="container" id="notebook-container">
@@ -593,7 +593,7 @@ window.onload = wrap_img;
 
 
 
-  </div><a class="u-url" href="/amro/2021/09/09/Neural_network_class_from_scratch-(1).html" hidden></a>
+  </div><a class="u-url" href="/amro/2021/09/10/Neural_network_class_from_scratch.html" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
