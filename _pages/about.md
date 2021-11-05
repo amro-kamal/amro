@@ -13,11 +13,11 @@ I Amro, a student at the [African Master's in Machine Intelligence (AMMI)](https
 Welcome to my website, see what I am doing:
 - *Sep 2021*: I started my MSc project with Dr. Stephane Deny from Facebook AI reseach.  
 
-- *Sep 2021*: I started a [project](https://omdena.com/projects/wood-fire/) at [OmdenaAI](https://omdena.com/) as a junior ML engineer.
+- *Sep 2021*: I started working on this [project](https://omdena.com/projects/wood-fire/) at [Omdena](https://omdena.com/) as a junior ML engineer.
 
 - *Jan 2021*: I moved to Senegal to start the African Master's in Machine Intelligence (AMMI).  
  
-- *Oct 2020*: I completed my BSc at University of Khartoum / Electrical Engineering (minor in software engineering). Now I am an Engineer 😄. 
+- *Oct 2020*: I completed my BSc at University of Khartoum / Electrical Engineering (major in software engineering). Now I am an Engineer 😄. 
 
 - *Sep 2019*: I presented a session "Intro to Deep Learning" at Deep Learning IndabaX Sudan. 
 
