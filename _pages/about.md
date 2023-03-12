@@ -7,10 +7,10 @@ permalink: /about/
 Wellcome to my website!.
 
 
-I Amro, a student at the [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/), a one-year program organized by the [African Institute For Mathematical Sciences (AIMS)](https://nexteinstein.org/). Feel free to send me email [here](afagiri@aimsammi.org)
+I am an AI Resident at [Meta AI](https://ai.facebook.com) working with [Ari Morcos](http://www.arimorcos.com). Before that, I was a masters' student at the [African Institute For Mathematical Sciences (AIMS)](https://nexteinstein.org/) where I did the [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/),. Feel free to send me email [here](afagiri@aimsammi.org)
 
 
-Welcome to my website, see what I am doing:
+## News:
 - *Sep 2021*: I started my MSc project with Dr. Stephane Deny from Facebook AI reseach.  
 
 - *Sep 2021*: I started working on this [project](https://omdena.com/projects/wood-fire/) at [Omdena](https://omdena.com/) as a junior ML engineer.
