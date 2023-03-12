@@ -12,7 +12,7 @@ I am an AI Resident at [Meta AI](https://ai.facebook.com) working with [Ari Morc
 
 ## News:
 - *Sep 2021*: Joined Meta in California as an AI Resident.
-- 
+
 - *Sep 2021*: I started my MSc project with Dr. Stephane Deny from Facebook AI reseach.  
 
 - *Jan 2021*: I moved to Senegal to start the African Master's in Machine Intelligence (AMMI).  
@@ -25,7 +25,7 @@ I am an AI Resident at [Meta AI](https://ai.facebook.com) working with [Ari Morc
 
 - *Aug 2019*: I attened Deep Learning Indaba 2019 in Nairobi, Kenya.  -->
 
-## Publications:
+## Publications & Preprint:
 (*indicates equal contribution)
 [Progress and limitations of deep networks to recognize objects in unusual poses](https://arxiv.org/abs/2207.08034)
 Amro Abbas, Stéphane Deny
