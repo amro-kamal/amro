@@ -7,21 +7,29 @@ permalink: /about/
 Wellcome to my website!.
 
 
-I am an AI Resident at [Meta AI](https://ai.facebook.com) working with [Ari Morcos](http://www.arimorcos.com). Before that, I was a masters' student at the [African Institute For Mathematical Sciences (AIMS)](https://nexteinstein.org/) where I did the [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/),. Feel free to send me email [here](afagiri@aimsammi.org)
+I am an AI Resident at [Meta AI](https://ai.facebook.com) working with [Ari Morcos](http://www.arimorcos.com). Before that, I was a masters' student at the [African Institute For Mathematical Sciences (AIMS)](https://nexteinstein.org/) where I did the [African Master's in Machine Intelligence (AMMI)](https://aimsammi.org/). Feel free to send me email [here](afagiri@aimsammi.org).
 
 
 ## News:
+- *Sep 2021*: Joined Meta in California as an AI Resident.
+- 
 - *Sep 2021*: I started my MSc project with Dr. Stephane Deny from Facebook AI reseach.  
-
-- *Sep 2021*: I started working on this [project](https://omdena.com/projects/wood-fire/) at [Omdena](https://omdena.com/) as a junior ML engineer.
 
 - *Jan 2021*: I moved to Senegal to start the African Master's in Machine Intelligence (AMMI).  
  
 - *Oct 2020*: I completed my BSc at University of Khartoum / Electrical Engineering (major in software engineering). Now I am an Engineer 😄. 
 
+<!-- - *Sep 2021*: I started working on this [project](https://omdena.com/projects/wood-fire/) at [Omdena](https://omdena.com/) as a junior ML engineer.
+
 - *Sep 2019*: I presented a session "Intro to Deep Learning" at Deep Learning IndabaX Sudan. 
 
-- *Aug 2019*: I attened Deep Learning Indaba 2019 in Nairobi, Kenya. 
+- *Aug 2019*: I attened Deep Learning Indaba 2019 in Nairobi, Kenya.  -->
+
+## Publications:
+(*indicates equal contribution)
+[Progress and limitations of deep networks to recognize objects in unusual poses](https://arxiv.org/abs/2207.08034)
+Amro Abbas, Stéphane Deny
+AAAI 2023
 
 
 ## My Medium Blogs:
