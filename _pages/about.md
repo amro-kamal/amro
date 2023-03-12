@@ -26,10 +26,10 @@ I am an AI Resident at [Meta AI](https://ai.facebook.com) working with [Ari Morc
 - *Aug 2019*: I attened Deep Learning Indaba 2019 in Nairobi, Kenya.  -->
 
 ## Publications & Preprint:
-(*indicates equal contribution)
-[Progress and limitations of deep networks to recognize objects in unusual poses](https://arxiv.org/abs/2207.08034)
-Amro Abbas, Stéphane Deny
-AAAI 2023
+(*indicates equal contribution)<br />
+[Progress and limitations of deep networks to recognize objects in unusual poses](https://arxiv.org/abs/2207.08034)<br />
+Amro Abbas, Stéphane Deny<br />
+AAAI 2023<br />
 
 
 ## My Medium Blogs:
