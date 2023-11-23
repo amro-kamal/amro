@@ -131,3 +131,27 @@ span.highlight {
 }
 img {
   border-radius: 40px;
+
+/* custom style */
+.card {
+  display: flex;
+  border: 1px solid #ddd;
+  margin: 20px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-content h2 {
+  margin-top: 0;
+}
